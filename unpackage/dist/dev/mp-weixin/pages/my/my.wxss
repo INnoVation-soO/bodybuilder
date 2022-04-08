@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.container {
+  background-color: #EEFFF8;
+}
+.img-box {
+  display: flex;
+  justify-content: center;
+}
+.txt-box {
+  text-indent: 2em;
+  font-size: 50rpx;
+}
+

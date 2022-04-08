@@ -1,0 +1,1 @@
+.floor-title{height:80rpx;line-height:80rpx;font-size:60rpx;width:100%;display:flex;font-weight:700;margin-left:20rpx;text-shadow:5rpx 5rpx 5rpx #000}.order{padding:0rpx 15rpx 0rpx 100rpx;height:60rpx;line-height:50rpx;font-size:40rpx}.order .header{float:left;color:#b8b0ad;width:65%;font-style:italic}.order .tailer{text-align:right;float:left;width:35%;font-weight:700}

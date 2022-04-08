@@ -1,0 +1,54 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.container {
+  width: 100%;
+}
+.container swiper {
+  width: 100%;
+}
+swiper {
+  height: 422rpx;
+}
+swiper .swiper-item,
+swiper image {
+  width: 100%;
+  height: 100%;
+}
+.nav-list {
+  display: flex;
+  justify-content: space-around;
+  margin: 15px 0;
+}
+.nav-list .nav-img {
+  width: 128rpx;
+  height: 128rpx;
+}
+.nav-list .list-text {
+  display: flex;
+  justify-content: center;
+  width: 128rpx;
+}
+.floor-title {
+  height: 60rpx;
+  width: 100%;
+  display: flex;
+  font-weight: bold;
+  margin-left: 20rpx;
+  text-shadow: 5rpx 5rpx 5rpx #000000;
+}
+.right-img-box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.right-img-box .right-img-item {
+  padding: 6rpx;
+}
+.left-img-box {
+  padding: 6rpx;
+}
+.floor-img-box {
+  display: flex;
+}
+

@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.floor-title {
+  height: 80rpx;
+  line-height: 80rpx;
+  font-size: 60rpx;
+  width: 100%;
+  display: flex;
+  font-weight: bold;
+  margin-left: 20rpx;
+  text-shadow: 5rpx 5rpx 5rpx #000000;
+}
+.order {
+  padding: 0rpx 15rpx 0rpx 100rpx;
+  height: 60rpx;
+  line-height: 50rpx;
+  font-size: 40rpx;
+}
+.order .header {
+  float: left;
+  color: #B8B0AD;
+  width: 65%;
+  font-style: italic;
+}
+.order .tailer {
+  text-align: right;
+  float: left;
+  width: 35%;
+  font-weight: bold;
+}
+
